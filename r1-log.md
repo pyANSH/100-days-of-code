@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Ayan Shrivastava
 
-The log of my #100DaysOfCode challenge. Started on [March 15, 2023].
+The log of my #100DaysOfCode challenge. Started on [March 12, 2023].
 
 ## Log
 
